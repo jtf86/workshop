@@ -12,4 +12,6 @@ This website is built using simple web development technologies.
 
 <hr>
 
+Live at [GitHub Pages](https://jtf86.github.io/workshop/)
+
 Built 2017 by John Doe
