@@ -70,13 +70,11 @@ Let's create one last, bigger piece of functionality today. Let's create a form 
 <div class="filename">index.html</div>
 ```html
 ...
-<form id="goal-form">
   <div class="form-group">
     <label>New Goal</label>
     <input type="text" id="new-goal">
     <button class="btn" type="button" id="goal-button">Add goal</button>
   </div>
-</form>
 ...
 ```
 
